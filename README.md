@@ -7,7 +7,12 @@
 
 
 
-ijsdhflkjdhsfglhsdflgkhdlkjfghldksfghdlfkhgslkdfhg
+dirección para hacer PUSH:
+Carlos--->
+ https://github.com/Carlos84sh/-omada.git 
+Jhon--->
+ https://github.com/ablue968/-omada.git 
+
 
 ### Requirements:
 - Make sure you are using node version 10
