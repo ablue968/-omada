@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export const Navbar = () => {
 	return (
-		<nav className="navbar navbar-light bg-light mb-3">
+		<nav className="navbar navbar-light mb-3">
 			<Link to="/">
 				<span className="navbar-brand mb-0 h1">Ñomada</span>
 			</Link>
@@ -16,13 +16,13 @@ export const Navbar = () => {
 			</form>
 			<div className="ml-auto">
 				<Link to="/aboutus">
-					<button className="btn btn-primary">About us</button>
+					<button className="btn btn-primary buttonColorNav">About us</button>
 				</Link>
 				<Link to="/aboutus">
-					<button className="btn btn-primary">Favoritos</button>
+					<button className="btn btn-primary buttonColorNav">Favoritos</button>
 				</Link>
 				<Link to="/aboutus">
-					<button className="btn btn-primary">Login</button>
+					<button className="btn btn-primary buttonColorNav">Login</button>
 				</Link>
 			</div>
 		</nav>
