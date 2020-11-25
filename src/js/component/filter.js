@@ -10,7 +10,7 @@ export const Filter = () => (
 				data-toggle="dropdown"
 				aria-haspopup="true"
 				aria-expanded="false">
-				Dropdown button
+				FIltro
 			</button>
 			<div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
 				<a className="dropdown-item" href="#">
